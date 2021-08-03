@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">PetsCare</string>
+    <string name="pet_s_care" translatable="false">Pet\'s Care</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="register" translatable="false">Register</string>
+    <string name="email_example">valentina.silva@exemplo.com.br</string>
+    <string name="password">Password</string>
+</resources>

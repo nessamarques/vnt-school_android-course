@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PetsCare</string>
+    <string name="pet_s_care" translatable="false">PetsCare</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="register" translatable="false">Registrar</string>
+    <string name="email_example">valentina.silva@exemplo.com.br</string>
+    <string name="password">Password</string>
+</resources>
