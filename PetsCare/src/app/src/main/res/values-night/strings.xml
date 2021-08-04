@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="email_example">valentina.silva@exemplo.com.br</string>
+    <string name="next">Next</string>
+    <string name="verification">Verification</string>
+    <string name="hintUserId">valentina_silva</string>
+    <string name="CPFExample">999.999.999-99</string>
+    <string name="PhoneExample">+55 99 99999-9999</string>
+    <string name="PrivacyPolicy">By registering, you agree to the Terms of Use and Privacy Policy.</string>
+    <string name="Confirm">Confirm</string>
+    <string name="VerificationCodeInfo">You will receive a verification code via SMS</string>
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Four">4</string>
 </resources>

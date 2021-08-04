@@ -5,5 +5,17 @@
     <string name="login" translatable="false">Login</string>
     <string name="register" translatable="false">Registrar</string>
     <string name="email_example">valentina.silva@exemplo.com.br</string>
-    <string name="password">Password</string>
+    <string name="password">Senha</string>
+    <string name="next">Próximo</string>
+    <string name="verification">Verificação</string>
+    <string name="hintUserId">valentina_silva</string>
+    <string name="CPFExample">999.999.999&#8211;99</string>
+    <string name="PhoneExample">+55 99 99999&#8211;9999</string>
+    <string name="PrivacyPolicy">Ao se inscrever, você concorda com os Termos de Uso e Política de Privacidade.</string>
+    <string name="Confirm">Confirmar</string>
+    <string name="VerificationCodeInfo">você vai receber um código de verificação por SMS</string>
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Four">4</string>
 </resources>

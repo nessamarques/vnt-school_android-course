@@ -10,7 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PetsCare"
         tools:ignore="AllowBackup">
-        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".RegisterStepTwoActivity"></activity>
+        <activity android:name=".RegisterStepOneActivity" />
+        <activity android:name=".VerificationActivity" />
+        <activity android:name=".LoginActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
